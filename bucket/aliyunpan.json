@@ -14,7 +14,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tickstep/aliyunpan/releases/download/v0.2.0/aliyunpan-v0.2.0-windows-x64.zip"
+            "url": "https://github.com/tickstep/aliyunpan/releases/download/v0.2.0/aliyunpan-v0.2.0-windows-x64.zip",
+            "hash": "69a533e9d074f8444098a7562ae03a23e61cd29f42a6d1bf0a7537bd26ad5b97"
         }
     },
     "autoupdate": {
