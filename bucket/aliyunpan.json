@@ -10,7 +10,7 @@
 
     },
     "bin": [
-        "aliyunpan-v$version-windows-x64\\aliyunpan.exe"
+        "aliyunpan-v0.2.0-windows-x64\\aliyunpan.exe"
     ],
     "architecture": {
         "64bit": {
