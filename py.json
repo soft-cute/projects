@@ -1,0 +1,24 @@
+{
+  "sites": [
+    {
+      "key": "py_douyu",
+      "name": "🔥斗鱼",
+      "type": 3,
+      "api": "py_douyu",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/soft-cute/testtvbox/master/plugin/py_douyu.py"
+    },
+    {
+      "key": "py_huya",
+      "name": "🔥虎牙",
+      "type": 3,
+      "api": "py_huya",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/soft-cute/testtvbox/master/plugin/py_huya.py"
+    }
+  ]
+}
