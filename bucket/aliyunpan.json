@@ -9,8 +9,9 @@
         "regex": "aliyunpan-v([\\d.]+)-windows-x64.zip"
 
     },
+    "extract_dir": "aliyunpan-v0.2.0-windows-x64",
     "bin": [
-        "aliyunpan-v0.2.0-windows-x64\\aliyunpan.exe"
+        "aliyunpan.exe"
     ],
     "architecture": {
         "64bit": {
@@ -23,6 +24,7 @@
             "64bit": {
                 "url": "https://github.com/tickstep/aliyunpan/releases/download/v$version/aliyunpan-v$version-windows-x64.zip"
             }
-        }
+        },
+        "extract_dir": "aliyunpan-v$version-windows-x64"
     }
 }
