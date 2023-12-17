@@ -4,7 +4,7 @@
       "key": "py_douyu",
       "name": "斗鱼",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/soft-cute/projects@TVbox/plugin/py_douyu.py",
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/soft-cute/projects/TVbox/plugin/py_douyu.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
