@@ -1,5 +1,5 @@
 {
-    "version": "0.0.15",
+    "version": "0.0.16",
     "description": "获取直播间的源地址",
     "homepage": "https://github.com/soft-cute/evina",
     "license": "MIT",
@@ -11,8 +11,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/soft-cute/evina/releases/download/v0.0.15/evina-v0.0.15-x86_64-pc-windows-gnu.zip",
-            "hash": "6eb0b46f8ac68f274fb89045713e96ce59aecb3f074a88fd398e335ce1b3b6a7"
+            "url": "https://github.com/soft-cute/evina/releases/download/v0.0.16/evina-v0.0.16-x86_64-pc-windows-gnu.zip",
+            "hash": "f9ec186a8261602b610d63d4cb2950947f027a67a37bd77f9fb9eca1c69fc961"
         }
     },
     "autoupdate": {
