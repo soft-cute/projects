@@ -1,5 +1,5 @@
 {
-    "version": "v0.0.10",
+    "version": "0.0.16",
     "description": "获取直播间的源地址",
     "homepage": "https://github.com/SuperTreasure/evina",
     "license": "MIT",
@@ -11,8 +11,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/SuperTreasure/evina/releases/download/v0.0.10/evina-v0.0.10-x86_64-pc-windows-gnu.zip",
-            "hash": "d674ff3f9669889816a0e6503172c53b178635613edc2a7ae37e64c390305e26"
+            "url": "https://github.com/SuperTreasure/evina/releases/download/v0.0.16/evina-v0.0.16-x86_64-pc-windows-gnu.zip",
+            "hash": "f9ec186a8261602b610d63d4cb2950947f027a67a37bd77f9fb9eca1c69fc961"
         }
     },
     "autoupdate": {
